@@ -1,0 +1,12 @@
+---
+title: "Test New Computer"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## R Markdown
+
+This is a test; I just want to see if I can push to Git and write normally here. 
